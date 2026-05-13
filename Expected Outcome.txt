@@ -1,0 +1,5 @@
+• Customers are grouped into different segments based on their spending behavior and income.
+• The project provides insights into customer preferences and purchase patterns.
+• Visualization helps in understanding different customer categories clearly.
+• Businesses can use these insights for targeted marketing and better customer management.
+• Gain experience in customer analytics, clustering techniques, and data visualization using Python.
