@@ -1,5 +1,0 @@
-•To analyze customer behavior and purchasing patterns.
-•To segment customers into different groups using K-Means clustering.
-•To visualize customer segments using graphs.
-•To understand customer preferences based on income and spending habits.
-•To gain practical knowledge in Machine Learning and customer analytics.
